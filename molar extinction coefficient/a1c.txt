@@ -1,0 +1,15 @@
+###########################################################################
+MEC (epsilon) of HbA1c
+###########################################################################
+MEC are calculated with reference of [1] subtracting the absorption of water [1]. Which is then calibrated with the data from [2].
+
+
+a1c_535_13      -       535nm and 13% HbA1c (M-1 cm-1)
+a1c_535_8       -       535nm and 8% HbA1c (M-1 cm-1)
+a1c_593_13      -       593nm and 13% HbA1c (M-1 cm-1)
+a1c_593_8       -       593nm and 8% HbA1c (M-1 cm-1)
+nmTc            -       x axis of wavelength (nm)
+
+
+[1] P.-T. Dong, H. Lin, and J.-X. Cheng, “Quantitation of glycated hemoglobin in single red blood cells by transient absorption microscopy and phasor analysis (Conference Presentation),” in Multiphoton Microscopy in the Biomedical Sciences XIX, 2019, vol. 10882, p. 1088225.
+[2] S. Mandal and M. O. Manasreh, “An In-Vitro Optical Sensor Designed to Estimate Glycated Hemoglobin Levels,” Sensors (Basel), vol. 18, no. 4, Apr. 2018

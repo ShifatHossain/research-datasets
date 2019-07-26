@@ -1,0 +1,16 @@
+###########################################################################
+Absorption Coefficient (mu_a) of HbO
+###########################################################################
+The anisotropy factor is acquired from [1] which used inverse Monte Carlo Simulation to determine this parameter. 
+The Hematocrit for this data is 42.1% done with buffer dilution. Hemoglobin solution 12.9 g/dL.
+Oxygen saturated (>99%)
+Ph value maitained at 7.4.
+Temperature 20 deg Celcius.
+
+
+abs_coeff   -       absorption coefficient of HbO (mm-1)
+nm          -       x-axis wavelength (nm)
+
+
+
+[1] M. Friebel, A. Roggan, G. Müller, and M. Meinke, “Determination of optical properties of human blood in the spectral range 250 to 1100 nm using Monte Carlo simulations with hematocrit-dependent effective scattering phase functions,” J Biomed Opt, vol. 11, no. 3, p. 34021, Jun. 2006.

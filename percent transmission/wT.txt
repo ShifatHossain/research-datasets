@@ -1,0 +1,12 @@
+###########################################################################
+Percent transmission (%T) of Water
+###########################################################################
+Percent transmission of water reconstructed from [1]
+
+f_WT        -       Smoothing Spline fit curve of %T of water
+                    x-axis: wavelength (nm)
+                    y-axis: %T of water (%)
+
+
+
+[1]P.-T. Dong, H. Lin, and J.-X. Cheng, “Quantitation of glycated hemoglobin in single red blood cells by transient absorption microscopy and phasor analysis (Conference Presentation),” in Multiphoton Microscopy in the Biomedical Sciences XIX, 2019, vol. 10882, p. 1088225.

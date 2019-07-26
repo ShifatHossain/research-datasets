@@ -1,0 +1,12 @@
+###########################################################################
+MEC (epsilon) of Hb and HbO2
+###########################################################################
+MEC of Hb and HbO2 are directly acquired from the [1].
+
+hb          -       MEC of Hb (M-1 cm-1)
+hbo2        -       MEC of Hbo2 (M-1 cm-1)
+nm          -       x-axis of hb and hbo2 data wavelength (nm)
+
+
+
+[1]Prahl, S. Tabulated Molar Extinction Coefficient for Hemoglobin in Water. 4 March 1998. Available online: https://omlc.org/spectra/hemoglobin/summary.html (accessed on 13 March 2018)
